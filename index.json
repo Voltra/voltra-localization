@@ -11,7 +11,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אלבומים"
+    "he": "אלבומים",
+    "tr": "Albümler"
   },
   "V1_1": {
     "en": "sort a-z",
@@ -25,7 +26,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מיין מ-א' ל-ת'"
+    "he": "מיין מ-א' ל-ת'",
+    "tr": "a-z Sırala"
   },
   "V1_2": {
     "en": "From A to Z",
@@ -39,7 +41,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מ-א' ל-ת'"
+    "he": "מ-א' ל-ת'",
+    "tr": "A'dan Z'e Sırala"
   },
   "V1_3": {
     "en": "From Z to A",
@@ -53,7 +56,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מ-ת' ל-א'"
+    "he": "מ-ת' ל-א'",
+    "tr": "Z'den A'a Sırala"
   },
   "V1_4": {
     "en": "Recently Added",
@@ -67,26 +71,29 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "נוסף לאחרונה"
+    "he": "נוסף לאחרונה",
+    "tr": "Son Eklenenler"
   },
   "V1_5": {
     "en": "Recently Played",
     "de": "Kürzlich gespielt",
     "nl": "Random",
-    "he": "נוגן לאחרונה"
+    "he": "נוגן לאחרונה",
+    "tr": "Son Çalınanlar"
   },
   "V1_6": {
     "en": "Random",
     "de": "Zufällig",
     "nl": "Random",
-    "he": "אקראי"
+    "he": "אקראי",
+    "tr": "Rastgele"
   },
   "V1_7": {
     "en": "Plays",
-    "de": "Spielt"
-    "he": "מתנגן"
+    "de": "Spielt",
+    "he": "מתנגן",
+    "tr": "Oynatılanlar"
   },
-
   "V2_0": {
     "en": "Artists",
     "ep": "",
@@ -99,7 +106,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אמנים"
+    "he": "אמנים",
+    "tr": "Sanatçılar"
   },
   "V2_1": {
     "en": "Filter artists",
@@ -113,7 +121,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סנן אמנים"
+    "he": "סנן אמנים",
+    "tr": "Sanatçıları Süzgeçle"
   },
   "V2_2": {
     "en": "Various Artists",
@@ -127,7 +136,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אמנים שונים"
+    "he": "אמנים שונים",
+    "tr": "Çeşitli Sanatçılar"
   },
   "V2_3": {
     "en": "biography",
@@ -141,7 +151,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ביוגרפיה"
+    "he": "ביוגרפיה",
+    "tr": "Biyografi"
   },
   "V2_4": {
     "en": "your albums",
@@ -155,7 +166,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "האלבומים שלך"
+    "he": "האלבומים שלך",
+    "tr": "Albümlerin"
   },
   "V2_5": {
     "en": "read more",
@@ -169,7 +181,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "קרא עוד"
+    "he": "קרא עוד",
+    "tr": "Devamını Oku"
   },
   "V2_6": {
     "en": "albums",
@@ -183,7 +196,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אלבומים"
+    "he": "אלבומים",
+    "tr": "Albümler"
   },
   "V2_7": {
     "en": "tracks",
@@ -197,7 +211,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רצועות"
+    "he": "רצועות",
+    "tr": "Şarkılar"
   },
   "V2_8": {
     "en": "play all",
@@ -211,7 +226,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "נגן הכל"
+    "he": "נגן הכל",
+    "tr": "Tümünü Oynat"
   },
 
   "V3_0": {
@@ -226,7 +242,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רשימות השמעה"
+    "he": "רשימות השמעה",
+    "tr": "Çalma Listeleri"
   },
   "V3_1": {
     "en": "New Playlist",
@@ -240,7 +257,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רשימת השמעה חדשה"
+    "he": "רשימת השמעה חדשה",
+    "tr": "Yeni Çalma Listesi"
   },
   "V3_2": {
     "en": "Use Cmd + N to Create a New Playlist",
@@ -254,7 +272,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "השתמש בCmd + N כדי ליצור רשימת השמעה חדשה"
+    "he": "השתמש בCmd + N כדי ליצור רשימת השמעה חדשה",
+    "tr": "Yeni Çalma Listesi Oluşturmak için CMD + N Kısayolunu Kullanın"
   },
   "V3_3": {
     "en": "Description",
@@ -268,7 +287,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "תיאור"
+    "he": "תיאור",
+    "tr": "Açıklama"
   },
   "V3_4": {
     "en": "Delete Playlist",
@@ -282,7 +302,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מחק רשימת השמעה"
+    "he": "מחק רשימת השמעה",
+    "tr": "Çalma Listesini Sil"
   },
   "V3_5": {
     "en": "This will delete the playlist from your computer. Are you sure?",
@@ -296,7 +317,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רשימת השמעה זו תימחק מהמחשב. אתה בטוח?"
+    "he": "רשימת השמעה זו תימחק מהמחשב. אתה בטוח?",
+    "tr": "Çalma Listesi Bilgisayarından Silinecek. Emin misin?"
   },
 
   "V4_0": {
@@ -311,7 +333,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חנות"
+    "he": "חנות",
+    "tr": "Alışveriş"
   },
   "V4_1": {
     "en": "Shop",
@@ -325,7 +348,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חנות"
+    "he": "חנות",
+    "tr": "Alışveriş"
   },
   "V4_2": {
     "en": "The Voltra Shop",
@@ -339,7 +363,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חנות Voltra"
+    "he": "חנות Voltra",
+    "tr": "Voltra Mağazası"
   },
   "V4_3": {
     "en": "Discover new music & support your favorite artists.",
@@ -353,7 +378,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "גלה מוסיקה חדשה ותמוך באמנים האהובים עליך."
+    "he": "גלה מוסיקה חדשה ותמוך באמנים האהובים עליך.",
+    "tr": "Yeni Müzikler Keşfet & Favori Sanatçılarınızı Destekleyin."
   },
 
   "V5_0": {
@@ -368,7 +394,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הגדרות"
+    "he": "הגדרות",
+    "tr": "Ayarlar"
   },
   "V5_1": {
     "en": "preferences",
@@ -382,7 +409,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "העדפות"
+    "he": "העדפות",
+    "tr": "Tercihler"
   },
   "V5_2": {
     "en": "account",
@@ -396,7 +424,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חשבון"
+    "he": "חשבון",
+    "tr": "Hesap"
   },
   "V5_3": {
     "en": "accent color",
@@ -410,7 +439,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "צבע הדגשה"
+    "he": "צבע הדגשה",
+    "tr": "Vurgu Rengi"
   },
   "V5_4": {
     "en": "Toggle the Dark color theme.",
@@ -424,7 +454,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הפעל/כבה ערכת נושא כהה."
+    "he": "הפעל/כבה ערכת נושא כהה.",
+    "tr": "Koyu Renk Temasını Değiştir."
   },
   "V5_5": {
     "en": "dark / light theme",
@@ -438,7 +469,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ערכת נושא כהה / בהירה"
+    "he": "ערכת נושא כהה / בהירה",
+    "tr": "Koyu / Açık Tema"
   },
   "V5_6": {
     "en": "navigation",
@@ -452,7 +484,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ניווט"
+    "he": "ניווט",
+    "tr": "Navigasyon"
   },
   "V5_7": {
     "en": "Toggle the alternate menu.",
@@ -466,7 +499,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "פתח/סגור את התפריט החלופי"
+    "he": "פתח/סגור את התפריט החלופי",
+    "tr": "Alternatif Menüyü Değiştir."
   },
   "V5_8": {
     "en": "advanced search",
@@ -480,7 +514,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חיפוש מתקדם"
+    "he": "חיפוש מתקדם",
+    "tr": "Gelişmiş Arama"
   },
   "V5_9": {
     "en": "Use regular expressions for searching",
@@ -494,7 +529,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "השתמש בביטויים רגולריים בחיפוש"
+    "he": "השתמש בביטויים רגולריים בחיפוש",
+    "tr": "Arama yapmak için normal ifadeler kullanın."
   },
   "V5_10": {
     "en": "watch directory",
@@ -508,7 +544,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "צפה בתיקייה"
+    "he": "צפה בתיקייה",
+    "tr": "Dizini Takip Et"
   },
   "V5_11": {
     "en": "The directory where your music is stored.",
@@ -536,7 +573,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "צופה הקובץ"
+    "he": "צופה הקובץ",
+    "tr": "Dosya Takibi"
   },
   "V5_13": {
     "en": "Voltra will watch your media directory for new files or changes.",
@@ -550,7 +588,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "Voltra יצפה בשינויים וקבצים חדשים בתיקיית המדיה שלך"
+    "he": "Voltra יצפה בשינויים וקבצים חדשים בתיקיית המדיה שלך",
+    "tr": "Voltra medya dizinindeki yeni dosya ve değişiklikleri takip edecek."
   },
   "V5_14": {
     "en": "Personal Info",
@@ -564,7 +603,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מידע אישי"
+    "he": "מידע אישי",
+    "tr": "Kişisel Bilgiler"
   },
   "V5_15": {
     "en": "Name",
@@ -578,7 +618,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שם"
+    "he": "שם",
+    "tr": "Adınız"
   },
   "V5_16": {
     "en": "Username",
@@ -592,7 +633,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שם משתמש"
+    "he": "שם משתמש",
+    "tr": "Kullanıcı Adınız"
   },
   "V5_17": {
     "en": "Email",
@@ -606,7 +648,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "דואר אלקטרוני"
+    "he": "דואר אלקטרוני",
+    "tr": "E-posta"
   },
   "V5_18": {
     "en": "Authenticate",
@@ -620,7 +663,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הזדהה"
+    "he": "הזדהה",
+    "tr": "Oturum Aç"
   },
   "V5_19": {
     "en": "You are currently signed in.",
@@ -634,7 +678,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הנך מחובר כרגע."
+    "he": "הנך מחובר כרגע.",
+    "tr": "Oturum açmış durumdasınız."
   },
   "V5_20": {
     "en": "You are currently signed out.",
@@ -648,7 +693,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הנך מנותק כרגע."
+    "he": "הנך מנותק כרגע.",
+    "tr": "Oturumunuzu kapatmış durumdasınız."
   },
   "V5_21": {
     "en": "change",
@@ -662,7 +708,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שנה"
+    "he": "שנה",
+    "tr": "Değiştir"
   },
   "V5_22": {
     "en": "reset data",
@@ -676,7 +723,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אפס מידע"
+    "he": "אפס מידע",
+    "tr": "Verileri Sıfırla"
   },
   "V5_23": {
     "en": "sign out",
@@ -690,7 +738,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "התנתק"
+    "he": "התנתק",
+    "tr": "Oturumu Kapat"
   },
   "V5_24": {
     "en": "sign in",
@@ -704,7 +753,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "התחבר"
+    "he": "התחבר",
+    "tr": "Oturum Aç"
   },
   "V5_25": {
     "en": "on",
@@ -718,7 +768,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "דולק"
+    "he": "דולק",
+    "tr": "aç"
   },
   "V5_26": {
     "en": "off",
@@ -732,7 +783,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "כבוי"
+    "he": "כבוי",
+    "tr": "kapat"
   },
   "V5_27": {
     "en": "beta options",
@@ -746,7 +798,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אופציות ביתא"
+    "he": "אופציות ביתא",
+    "tr": "Yeni Özellikler"
   },
   "V5_28": {
     "en": "Warning! This will remove all your local Voltra data. It won't delete your music files, but it will delete your playlists and settings.",
@@ -760,7 +813,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אזהרה! פעולה זו תמחק את כל המידע המקומי של Voltra. פעולה זו לא תמחק את קבצי המוזיקה שלך, אך היא תמחק את רשימות ההשמעת וההגדרות שלך."
+    "he": "אזהרה! פעולה זו תמחק את כל המידע המקומי של Voltra. פעולה זו לא תמחק את קבצי המוזיקה שלך, אך היא תמחק את רשימות ההשמעת וההגדרות שלך.",
+    "tr": "Uyarı! Yerel Voltra ayarlarınız kaldıralacak.Müzik dosyalarınız etkilenmeyecek, sadece çalma listeleriniz ve ayarlarınız silinecek. "
   },
 
   "V6_0": {
@@ -775,7 +829,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חיפוש"
+    "he": "חיפוש",
+    "tr": "Arama"
   },
   "V6_1": {
     "en": "albums",
@@ -789,7 +844,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אלבומים"
+    "he": "אלבומים",
+    "tr": "Albümler"
   },
   "V6_2": {
     "en": "tracks",
@@ -803,7 +859,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רצועות"
+    "he": "רצועות",
+    "tr": "Şarkılar"
   },
   "V6_3": {
     "en": "limited to 250 results",
@@ -817,7 +874,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מוגבל ל250 תוצאות"
+    "he": "מוגבל ל250 תוצאות",
+    "tr": "250 sonuçla sınırlı"
   },
   "V6_4": {
     "en": "genre",
@@ -831,7 +889,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ז'אנר"
+    "he": "ז'אנר",
+    "tr": "Tür"
   },
   "V6_5": {
     "en": "possible genres",
@@ -845,7 +904,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ז'אנרים אפשריים"
+    "he": "ז'אנרים אפשריים",
+    "tr": "Olası Türler"
   },
 
   "V7_0": {
@@ -860,7 +920,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "תור"
+    "he": "תור",
+    "tr": "Çalma Kuyruğu"
   },
   "V7_1": {
     "en": "Currently Playing",
@@ -874,11 +935,12 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מתנגן כעת"
+    "he": "מתנגן כעת",
+    "tr": "Şuanda Çalınan"
   },
   "V7_2": {
-      "en": "Up Next",
-      "ep": "",
+    "en": "Up Next",
+    "ep": "",
     "es": "",
     "de": "Als Nächstes",
     "fr": "",
@@ -888,11 +950,12 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הבא"
+    "he": "הבא",
+    "tr": "Bir Sonraki"
   },
   "V7_3": {
-      "en": "History",
-      "ep": "",
+    "en": "History",
+    "ep": "",
     "es": "",
     "de": "Verlauf",
     "fr": "",
@@ -902,7 +965,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "היסטוריה"
+    "he": "היסטוריה",
+    "tr": "Geçmiş"
   },
   "V7_4": {
     "en": "Shuffle",
@@ -916,7 +980,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ערבב"
+    "he": "ערבב",
+    "tr": "Karıştır"
   },
   "V7_5": {
     "en": "Clear",
@@ -930,7 +995,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ניקוי"
+    "he": "ניקוי",
+    "tr": "Temizle"
   },
 
   "B1_0": {
@@ -945,7 +1011,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סטטיסטיקות אוסף"
+    "he": "סטטיסטיקות אוסף",
+    "tr": "Koleksiyon İstatistikleri"
   },
   "B1_1": {
     "en": "Activity",
@@ -959,7 +1026,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "פעילות"
+    "he": "פעילות",
+    "tr": "Aktivite"
   },
   "B1_2": {
     "en": "Your Collection by Decade",
@@ -973,7 +1041,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "האוסף שלך לפי עשור"
+    "he": "האוסף שלך לפי עשור",
+    "tr": ""
   },
   "B1_3": {
     "en": "Top Genres",
@@ -987,7 +1056,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ז'אנרים מובילים"
+    "he": "ז'אנרים מובילים",
+    "tr": "Popüler Türler"
   },
 
   "W1_0": {
@@ -1002,7 +1072,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ברוך הבא"
+    "he": "ברוך הבא",
+    "tr": "Hoş Geldin"
   },
   "W1_1": {
     "en": "New Account",
@@ -1016,7 +1087,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "חשבון חדש"
+    "he": "חשבון חדש",
+    "tr": "Yeni Hesap"
   },
   "W1_2": {
     "en": "Sign in with an existing account or create a new account to get started.",
@@ -1030,7 +1102,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "התחבר עם חשבון קיים או צור חשבון חדש כדי להתחיל."
+    "he": "התחבר עם חשבון קיים או צור חשבון חדש כדי להתחיל.",
+    "tr": "Var Olan Hesabınızla Oturum Açın yada Yeni Bir Hesap Oluşturarak Başlayın."
   },
   "W1_3": {
     "en": "Password",
@@ -1044,7 +1117,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סיסמה"
+    "he": "סיסמה",
+    "tr": "Şifre"
   },
   "W1_4": {
     "en": "I agree to the",
@@ -1058,7 +1132,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אני מאשר את"
+    "he": "אני מאשר את",
+    "tr": "Onaylıyorum"
   },
   "W1_5": {
     "en": "Terms and Conditions",
@@ -1072,7 +1147,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "תנאי השימןש"
+    "he": "תנאי השימןש",
+    "tr": "Şartlar ve koşullar"
   },
   "W1_6": {
     "en": "Create Account",
@@ -1086,7 +1162,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "צור חשבון"
+    "he": "צור חשבון",
+    "tr": "Hesap Oluştur"
   },
 
   "A1_1": {
@@ -1101,7 +1178,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מצא מוסיקה"
+    "he": "מצא מוסיקה",
+    "tr": "Müzik Bul"
   },
   "A1_2": {
     "en": "Finish",
@@ -1115,7 +1193,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סיום"
+    "he": "סיום",
+    "tr": "Bitiş"
   },
   "A1_3": {
     "en": "Select Directory",
@@ -1129,7 +1208,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "בחר תיקייה"
+    "he": "בחר תיקייה",
+    "tr": "Dizin Seçin"
   },
   "A1_4": {
     "en": "Select the directory where your music is kept.",
@@ -1143,7 +1223,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "בחר את התיקייה בה נמצאת הומסיקה שלך."
+    "he": "בחר את התיקייה בה נמצאת הומסיקה שלך.",
+    "tr": "Müziklerinizin Saklanacağı Dizini Seçin."
   },
   "A1_5": {
     "en": "What is this?",
@@ -1157,7 +1238,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מה זה?"
+    "he": "מה זה?",
+    "tr": "Bu Nedir?"
   },
   "A1_6": {
     "en": "Some files could not be imported. They might be DRM protected or they might not be music files at all.",
@@ -1171,7 +1253,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "לא ניתן לייבא חלק מהקבצים. הם עשויים להיות מוגבנםי בDRM או שהם לא קבצי מוסיקה."
+    "he": "לא ניתן לייבא חלק מהקבצים. הם עשויים להיות מוגבנםי בDRM או שהם לא קבצי מוסיקה.",
+    "tr": "Bazı Dosyalar Aktarılamadı. Bazıları Müzik Dosyaları Olmayabilir yada DRM Koruması olabilir."
   },
 
   "D1_0": {
@@ -1186,13 +1269,15 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סגור"
+    "he": "סגור",
+    "tr": "Kapat"
   },
   "D1_1": {
     "en": "cancel",
     "de": "Abbrechen",
     "nl": "annuleren",
-    "he": "ביטול"
+    "he": "ביטול",
+    "tr": "İptal"
   },
   "D1_2": {
     "en": "confirm",
@@ -1206,7 +1291,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אישור"
+    "he": "אישור",
+    "tr": "Onayla"
   },
   "D1_3": {
     "en": "save",
@@ -1220,7 +1306,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שמור"
+    "he": "שמור",
+    "tr": "Kaydet"
   },
   "D1_4": {
     "en": "delete",
@@ -1234,7 +1321,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מחק"
+    "he": "מחק",
+    "tr": "Sil"
   },
   "D1_5": {
     "en": "send",
@@ -1248,7 +1336,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שלח"
+    "he": "שלח",
+    "tr": "Gönder"
   },
   "D1_6": {
     "en": "Thank you for sending feedback — we value your input (markdown formatting supported).",
@@ -1262,7 +1351,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "תודה ששלחת משוב - אנו מעריכים את הקלט שלך )markdown נתמך(."
+    "he": "תודה ששלחת משוב - אנו מעריכים את הקלט שלך )markdown נתמך(.",
+    "tr": "Geri Bildiriminiz için teşekkürler — görüşlerinize önem veriyoruz (markdown desteği bulunmakta). "
   },
   "D1_7": {
     "en": "Type of Feedback",
@@ -1276,7 +1366,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "סוג המשוב"
+    "he": "סוג המשוב",
+    "tr": "Geri Bildirim Türü"
   },
   "D1_8": {
     "en": "Report a Bug",
@@ -1290,7 +1381,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "דווח על באג"
+    "he": "דווח על באג",
+    "tr": "Hata Bildirimi"
   },
   "D1_9": {
     "en": "Feature Request",
@@ -1304,7 +1396,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "בקשת פיצ'ר"
+    "he": "בקשת פיצ'ר",
+    "tr": "Yeni Özellik İsteği"
   },
   "D1_10": {
     "en": "Make a Suggestion",
@@ -1318,7 +1411,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "תן הצעה"
+    "he": "תן הצעה",
+    "tr": "Öneride Bulun"
   },
   "D1_11": {
     "en": "Ask a Question",
@@ -1332,7 +1426,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שאל שאלה"
+    "he": "שאל שאלה",
+    "tr": "Soru Sor"
   },
   "D1_12": {
     "en": "Other",
@@ -1346,7 +1441,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אחר"
+    "he": "אחר",
+    "tr": "Diğer"
   },
   "D1_13": {
     "en": "Subject",
@@ -1360,7 +1456,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "נושא"
+    "he": "נושא",
+    "tr": "Konu"
   },
   "D1_14": {
     "en": "Message",
@@ -1374,7 +1471,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הודעה"
+    "he": "הודעה",
+    "tr": "Mesaj"
   },
   "D1_15": {
     "en": "Edit",
@@ -1388,7 +1486,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ערוך"
+    "he": "ערוך",
+    "tr": "Düzenle"
   },
   "D1_16": {
     "en": "Are you sure you want to edit the information for all tracks on this album?",
@@ -1402,7 +1501,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "האם אתה בטוח שברצונך לערוך את המידע של כל הרצועות באלבום זה?"
+    "he": "האם אתה בטוח שברצונך לערוך את המידע של כל הרצועות באלבום זה?",
+    "tr": "Albümdeki bütün parçaların bilgilerini düzenlemek istediğinize eminmisiniz?"
   },
   "D1_17": {
     "en": "Merge Albums",
@@ -1416,7 +1516,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מזג אלבומים"
+    "he": "מזג אלבומים",
+    "tr": "Albümleri Birleştir"
   },
   "D1_18": {
     "en": "An album with that name already exists for this artist. Select the correct information for this album to merge.",
@@ -1444,7 +1545,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מזג"
+    "he": "מזג",
+    "tr": "Birşleştir"
   },
   "D1_20": {
     "en": "Error",
@@ -1458,7 +1560,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שגיאה"
+    "he": "שגיאה",
+    "tr": "Hata"
   },
   "D1_21": {
     "en": "There is a connectivity issue.",
@@ -1472,7 +1575,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "קיימת בעייה בחיבור."
+    "he": "קיימת בעייה בחיבור.",
+    "tr": "Bir bağlantı sorunu var."
   },
   "D1_22": {
     "en": "Don't tell me again",
@@ -1500,10 +1604,9 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שכחתי סיסמה?"
+    "he": "שכחתי סיסמה?",
+    "tr": "Şifremi Unuttum?"
   },
-
-
   "T1_0": {
     "en": "Tag Editor",
     "ep": "",
@@ -1516,7 +1619,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עורך תגים"
+    "he": "עורך תגים",
+    "tr": "Etiket Düzenleme"
   },
   "T1_1": {
     "en": "album",
@@ -1530,7 +1634,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אלבום"
+    "he": "אלבום",
+    "tr": "Albüm"
   },
   "T1_2": {
     "en": "album artist",
@@ -1544,7 +1649,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אמן האלבום"
+    "he": "אמן האלבום",
+    "tr": "Albüm Sanatçısı"
   },
   "T1_3": {
     "en": "track artist",
@@ -1558,7 +1664,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אמן הרצועה"
+    "he": "אמן הרצועה",
+    "tr": "Şarkı Sanatçısı"
   },
   "T1_4": {
     "en": "genre",
@@ -1572,7 +1679,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ז'אנר"
+    "he": "ז'אנר",
+    "tr": "Tür"
   },
   "T1_5": {
     "en": "year",
@@ -1586,7 +1694,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "שנה"
+    "he": "שנה",
+    "tr": "Tür"
   },
   "T1_6": {
     "en": "tag editor",
@@ -1600,7 +1709,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עורך תגים"
+    "he": "עורך תגים",
+    "tr": "Etiket Düzenleme"
   },
   "T1_7": {
     "en": "track",
@@ -1614,7 +1724,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רצועה"
+    "he": "רצועה",
+    "tr": "Şarkı"
   },
   "T1_8": {
     "en": "of",
@@ -1628,7 +1739,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "של"
+    "he": "של",
+    "tr": "arasında"
   },
   "T1_9": {
     "en": "disc",
@@ -1642,7 +1754,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "דיסק"
+    "he": "דיסק",
+    "tr": "Disk"
   },
 
   "M1_1": {
@@ -1657,7 +1770,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אודות Voltra"
+    "he": "אודות Voltra",
+    "tr": "Voltra Hakkında"
   },
   "M1_2": {
     "en": "Preferences",
@@ -1671,7 +1785,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "העדפות"
+    "he": "העדפות",
+    "tr": "Tercihler"
   },
   "M1_3": {
     "en": "Hide",
@@ -1685,7 +1800,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הסתר"
+    "he": "הסתר",
+    "tr": "Gizle"
   },
   "M1_4": {
     "en": "Hide Others",
@@ -1699,7 +1815,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הסתר אחרים"
+    "he": "הסתר אחרים",
+    "tr": "Diğelerini Gizle"
   },
   "M1_5": {
     "en": "Quit",
@@ -1713,7 +1830,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עזוב"
+    "he": "עזוב",
+    "tr": "Çıkış"
   },
   "M1_6": {
     "en": "File",
@@ -1727,7 +1845,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "קובץ"
+    "he": "קובץ",
+    "tr": "Dosya"
   },
   "M1_7": {
     "en": "Find Music",
@@ -1741,7 +1860,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מצא מוסיקה"
+    "he": "מצא מוסיקה",
+    "tr": "Müzik Bul"
   },
   "M1_8": {
     "en": "New Playlist",
@@ -1755,7 +1875,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רשימת השמעה חדשה"
+    "he": "רשימת השמעה חדשה",
+    "tr": "Yeni Çalma Listesi"
   },
   "M1_9": {
     "en": "Check for Updates",
@@ -1769,7 +1890,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "בדוק עדכונים"
+    "he": "בדוק עדכונים",
+    "tr": "Güncellemeleri Kontrol Et"
   },
   "M1_10": {
     "en": "Edit",
@@ -1783,7 +1905,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ערוך"
+    "he": "ערוך",
+    "tr": "Düzenle"
   },
   "M1_11": {
     "en": "Undo",
@@ -1797,7 +1920,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "לבטל"
+    "he": "לבטל",
+    "tr": "Geri Al"
   },
   "M1_12": {
     "en": "Redo",
@@ -1811,7 +1935,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עשה שוב"
+    "he": "עשה שוב",
+    "tr": "Yinele"
   },
   "M1_13": {
     "en": "Cut",
@@ -1825,7 +1950,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "גזור"
+    "he": "גזור",
+    "tr": "Kes"
   },
   "M1_14": {
     "en": "Copy",
@@ -1839,7 +1965,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "העתק"
+    "he": "העתק",
+    "tr": "Kopyala"
   },
   "M1_15": {
     "en": "Paste",
@@ -1853,7 +1980,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הדבק"
+    "he": "הדבק",
+    "tr": "Yapıştır"
   },
   "M1_16": {
     "en": "Select All",
@@ -1867,7 +1995,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "בחר הכל"
+    "he": "בחר הכל",
+    "tr": "Hepsini Seç"
   },
   "M1_17": {
     "en": "Find",
@@ -1881,7 +2010,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מצא"
+    "he": "מצא",
+    "tr": "Bul"
   },
   "M1_18": {
     "en": "Emoji & Symbols",
@@ -1895,7 +2025,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "אמוג'י & סמלים"
+    "he": "אמוג'י & סמלים",
+    "tr": "Emoji & Semboller"
   },
   "M1_19": {
     "en": "View",
@@ -1909,7 +2040,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הצג"
+    "he": "הצג",
+    "tr": "Görünüm"
   },
   "M1_20": {
     "en": "Player Mode",
@@ -1923,7 +2055,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מצב נגן"
+    "he": "מצב נגן",
+    "tr": "Oynatıcı Modu"
   },
   "M1_21": {
     "en": "Minimize",
@@ -1937,7 +2070,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מזער"
+    "he": "מזער",
+    "tr": "Küçült"
   },
   "M1_22": {
     "en": "Show Voltra",
@@ -1951,7 +2085,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הצג את Voltra"
+    "he": "הצג את Voltra",
+    "tr": "Voltra'ı Göster"
   },
   "M1_23": {
     "en": "Full Screen",
@@ -1965,7 +2100,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מסך מלא"
+    "he": "מסך מלא",
+    "tr": "Tam Ekran"
   },
   "M1_24": {
     "en": "Micro",
@@ -1979,7 +2115,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מיקרו"
+    "he": "מיקרו",
+    "tr": "Mikro"
   },
   "M1_25": {
     "en": "Mini",
@@ -1993,7 +2130,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מיני"
+    "he": "מיני",
+    "tr": "Minik"
   },
   "M1_26": {
     "en": "Help",
@@ -2007,7 +2145,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עזרה"
+    "he": "עזרה",
+    "tr": "Yardım"
   },
   "M1_27": {
     "en": "Help Documentation",
@@ -2021,7 +2160,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "עזור לתיעוד"
+    "he": "עזור לתיעוד",
+    "tr": "Yardım Dökümanı"
   },
   "M1_28": {
     "en": "Feedback",
@@ -2035,7 +2175,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "משוב"
+    "he": "משוב",
+    "tr": "Geri Bildirim"
   },
 
   "C1_1": {
@@ -2050,7 +2191,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ניגון הבא"
+    "he": "ניגון הבא",
+    "tr": "Sonrakini Oynat"
   },
   "C1_2": {
     "en": "Add to Queue",
@@ -2064,7 +2206,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הוסף לתור"
+    "he": "הוסף לתור",
+    "tr": "Çalma Kuyruğuna Ekle"
   },
   "C1_3": {
     "en": "Add to Playlist",
@@ -2078,7 +2221,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הוסף לרשימת השמעה"
+    "he": "הוסף לרשימת השמעה",
+    "tr": "Çalma Listene Ekle"
   },
   "C1_4": {
     "en": "New Playlist",
@@ -2092,7 +2236,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "רשימת השמעה חדשה"
+    "he": "רשימת השמעה חדשה",
+    "tr": "Yeni Çalma Listesi"
   },
   "C1_5": {
     "en": "Edit",
@@ -2106,7 +2251,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "ערוך"
+    "he": "ערוך",
+    "tr": "Düzenle"
   },
   "C1_6": {
     "en": "Delete Album",
@@ -2120,7 +2266,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מחק אלבום"
+    "he": "מחק אלבום",
+    "tr": "Albümü Sil"
   },
   "C1_7": {
     "en": "Delete Track",
@@ -2134,7 +2281,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מחק רצועה"
+    "he": "מחק רצועה",
+    "tr": "Şarkıyı Sil"
   },
   "C1_8": {
     "en": "Reveal File",
@@ -2148,7 +2296,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הצג קובץ"
+    "he": "הצג קובץ",
+    "tr": "Dosya'ı Göster"
   },
   "C1_9": {
     "en": "Remove from Queue",
@@ -2162,7 +2311,8 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "הסר מתור"
+    "he": "הסר מתור",
+    "tr": "Çalma Kuyruğundan Kaldır"
   },
   "C1_10": {
     "en": "Delete Playlist",
@@ -2176,6 +2326,7 @@
     "pl": "",
     "ru": "",
     "zh": "",
-    "he": "מחק רשימת השמעה"
+    "he": "מחק רשימת השמעה",
+    "tr": "Çalma Listesini Kaldır"
   }
 }
